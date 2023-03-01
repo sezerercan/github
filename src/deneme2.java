@@ -3,7 +3,7 @@ public class deneme2 {
         System.out.println("bu ikinci denememiz");
         System.out.println("bu ikinci denememiz");
         System.out.println("bu ikinci denememiz");
-        System.out.println("bu ucuncu" +
-                " denememiz");
+        System.out.println("bu ucuncu" + " denememiz");
+        System.out.println("bu ucuncu" + " denememiz");
     }
 }
